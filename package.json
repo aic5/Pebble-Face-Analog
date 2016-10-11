@@ -1,0 +1,21 @@
+{
+    "author": "alex.castro@duke.edu",
+    "dependencies": {},
+    "keywords": [],
+    "name": "test_rocky",
+    "pebble": {
+        "displayName": "Test_rocky",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "rocky",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "76e01f15-e11c-47e4-a581-334bb525747e",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
